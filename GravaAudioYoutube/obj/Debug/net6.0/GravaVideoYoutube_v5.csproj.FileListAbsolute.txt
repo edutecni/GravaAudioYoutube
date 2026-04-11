@@ -1,0 +1,5 @@
+C:\Users\Edutecni-Note\source\repos\GravaVideoYoutube_v5\GravaVideoYoutube_v5\obj\Debug\net6.0\GravaVideoYoutube_v5.csproj.AssemblyReference.cache
+C:\Users\Edutecni-Note\source\repos\GravaVideoYoutube_v5\GravaVideoYoutube_v5\obj\Debug\net6.0\GravaVideoYoutube_v5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edutecni-Note\source\repos\GravaVideoYoutube_v5\GravaVideoYoutube_v5\obj\Debug\net6.0\GravaVideoYoutube_v5.AssemblyInfoInputs.cache
+C:\Users\Edutecni-Note\source\repos\GravaVideoYoutube_v5\GravaVideoYoutube_v5\obj\Debug\net6.0\GravaVideoYoutube_v5.AssemblyInfo.cs
+C:\Users\Edutecni-Note\source\repos\GravaVideoYoutube_v5\GravaVideoYoutube_v5\obj\Debug\net6.0\GravaVideoYoutube_v5.csproj.CoreCompileInputs.cache
