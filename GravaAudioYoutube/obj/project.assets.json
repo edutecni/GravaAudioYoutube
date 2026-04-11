@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edutecni\\Documents\\Visual Studio 2022\\GravaAutioYoutube\\GravaAudioYoutube\\GravaAudioYoutube.csproj",
+      "projectUniqueName": "C:\\Users\\edutecni\\Documents\\Visual Studio 2022\\GravaAudioYoutube\\GravaAudioYoutube\\GravaAudioYoutube.csproj",
       "projectName": "GravaAudioYoutube",
-      "projectPath": "C:\\Users\\edutecni\\Documents\\Visual Studio 2022\\GravaAutioYoutube\\GravaAudioYoutube\\GravaAudioYoutube.csproj",
+      "projectPath": "C:\\Users\\edutecni\\Documents\\Visual Studio 2022\\GravaAudioYoutube\\GravaAudioYoutube\\GravaAudioYoutube.csproj",
       "packagesPath": "C:\\Users\\edutecni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edutecni\\Documents\\Visual Studio 2022\\GravaAutioYoutube\\GravaAudioYoutube\\obj\\",
+      "outputPath": "C:\\Users\\edutecni\\Documents\\Visual Studio 2022\\GravaAudioYoutube\\GravaAudioYoutube\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
