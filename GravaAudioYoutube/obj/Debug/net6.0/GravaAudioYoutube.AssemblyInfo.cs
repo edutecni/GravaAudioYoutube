@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GravaAudioYoutube")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd31f21da9d57c19b5347979bd6d85526856c717")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7ff23452b7b19dae0ce7bdec60b7b8038079661")]
 [assembly: System.Reflection.AssemblyProductAttribute("GravaAudioYoutube")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GravaAudioYoutube")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
