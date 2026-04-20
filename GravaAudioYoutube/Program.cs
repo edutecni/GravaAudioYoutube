@@ -12,14 +12,14 @@ class Program
     static async Task Main(string[] args)
     {
         var titulo = string.Empty;
-        var pasta = Environment.CurrentDirectory + "\\Mp3";
+        var pasta = Environment.CurrentDirectory + "\\Mp3\\";
 
         if (!Directory.Exists(pasta))
         {
             Directory.CreateDirectory(pasta);
         }
 
-        Console.WriteLine("Digite o título do video: ");
+        Console.WriteLine("Digite o título do video ou pressione Enter para usar o nome padrão: ");
 
         titulo = Console.ReadLine();
 
@@ -55,7 +55,7 @@ class Program
             // Remove caracteres inválidos do nome do arquivo
             //var fileName = SanitizeFileName(video.Title) + ".mp3";
 
-            var fileName = titulo;
+            var fileName = pasta + titulo;
 
             Console.WriteLine($"Baixando áudio: {fileName}");
 

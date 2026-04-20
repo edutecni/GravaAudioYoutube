@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "G5077Rdcp08=",
+  "dgSpecHash": "slXk6VVeMkQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\edutecni\\Documents\\Visual Studio 2022\\GravaAudioYoutube\\GravaAudioYoutube\\GravaAudioYoutube.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Edutecni-Note\\source\\repos\\GravaAudioYoutube\\GravaAudioYoutube\\GravaAudioYoutube.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edutecni-Note\\.nuget\\packages\\cliwrap\\3.10.1\\cliwrap.3.10.1.nupkg.sha512"
+  ],
   "logs": []
 }

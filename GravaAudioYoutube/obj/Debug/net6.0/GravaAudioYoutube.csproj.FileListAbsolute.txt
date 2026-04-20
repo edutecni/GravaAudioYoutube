@@ -17,21 +17,3 @@ C:\Users\Edutecni-Note\source\repos\GravaAutioYoutube\GravaAudioYoutube\obj\Debu
 C:\Users\Edutecni-Note\source\repos\GravaAutioYoutube\GravaAudioYoutube\obj\Debug\net6.0\GravaAudioYoutube.genruntimeconfig.cache
 C:\Users\Edutecni-Note\source\repos\GravaAutioYoutube\GravaAudioYoutube\obj\Debug\net6.0\ref\GravaAudioYoutube.dll
 C:\Users\Edutecni-Note\source\repos\GravaAutioYoutube\GravaAudioYoutube\bin\Debug\net6.0\CliWrap.dll
-C:\Users\edutecni\Documents\Visual Studio 2022\GravaAutioYoutube\GravaAudioYoutube\obj\Debug\net6.0\GravaAudioYoutube.dll
-C:\Users\edutecni\Documents\Visual Studio 2022\GravaAutioYoutube\GravaAudioYoutube\obj\Debug\net6.0\refint\GravaAudioYoutube.dll
-C:\Users\edutecni\Documents\Visual Studio 2022\GravaAutioYoutube\GravaAudioYoutube\obj\Debug\net6.0\GravaAudioYoutube.pdb
-C:\Users\edutecni\Documents\Visual Studio 2022\GravaAutioYoutube\GravaAudioYoutube\bin\Debug\net6.0\GravaAudioYoutube.exe
-C:\Users\edutecni\Documents\Visual Studio 2022\GravaAutioYoutube\GravaAudioYoutube\bin\Debug\net6.0\GravaAudioYoutube.deps.json
-C:\Users\edutecni\Documents\Visual Studio 2022\GravaAutioYoutube\GravaAudioYoutube\bin\Debug\net6.0\GravaAudioYoutube.runtimeconfig.json
-C:\Users\edutecni\Documents\Visual Studio 2022\GravaAutioYoutube\GravaAudioYoutube\bin\Debug\net6.0\GravaAudioYoutube.dll
-C:\Users\edutecni\Documents\Visual Studio 2022\GravaAutioYoutube\GravaAudioYoutube\bin\Debug\net6.0\GravaAudioYoutube.pdb
-C:\Users\edutecni\Documents\Visual Studio 2022\GravaAutioYoutube\GravaAudioYoutube\obj\Debug\net6.0\GravaAudioYoutube.csproj.AssemblyReference.cache
-C:\Users\edutecni\Documents\Visual Studio 2022\GravaAutioYoutube\GravaAudioYoutube\obj\Debug\net6.0\GravaAudioYoutube.Properties.Resources.resources
-C:\Users\edutecni\Documents\Visual Studio 2022\GravaAutioYoutube\GravaAudioYoutube\obj\Debug\net6.0\GravaAudioYoutube.csproj.GenerateResource.cache
-C:\Users\edutecni\Documents\Visual Studio 2022\GravaAutioYoutube\GravaAudioYoutube\obj\Debug\net6.0\GravaAudioYoutube.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\edutecni\Documents\Visual Studio 2022\GravaAutioYoutube\GravaAudioYoutube\obj\Debug\net6.0\GravaAudioYoutube.AssemblyInfoInputs.cache
-C:\Users\edutecni\Documents\Visual Studio 2022\GravaAutioYoutube\GravaAudioYoutube\obj\Debug\net6.0\GravaAudioYoutube.AssemblyInfo.cs
-C:\Users\edutecni\Documents\Visual Studio 2022\GravaAutioYoutube\GravaAudioYoutube\obj\Debug\net6.0\GravaAudioYoutube.csproj.CoreCompileInputs.cache
-C:\Users\edutecni\Documents\Visual Studio 2022\GravaAutioYoutube\GravaAudioYoutube\obj\Debug\net6.0\GravaAud.10D31988.Up2Date
-C:\Users\edutecni\Documents\Visual Studio 2022\GravaAutioYoutube\GravaAudioYoutube\obj\Debug\net6.0\GravaAudioYoutube.genruntimeconfig.cache
-C:\Users\edutecni\Documents\Visual Studio 2022\GravaAutioYoutube\GravaAudioYoutube\obj\Debug\net6.0\ref\GravaAudioYoutube.dll
